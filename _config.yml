@@ -1,0 +1,28 @@
+name: CunnieandBianca
+favicon: null
+layout_spectrum: 0.4009480800013989
+typography_spectrum: 0.5253047337755561
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9017335404641926
+  lightness: 0.5208482609596103
+  saturation: 0.6248117664363235
+  rhythmicContrast: 0.14552040747366846
+purpose: []
